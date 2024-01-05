@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seif-Elkerdany
+- 👋 Hi, I’m @Seif-Elkerdany I am student in AIU
 - 👀 I’m interested in Ai and coding in general
 - 🌱 I’m currently learning NLP and how to create LLM
 - 📫 How to reach me on my e-mail " seifelkerdany11@gmail.com "
